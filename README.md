@@ -1,4 +1,4 @@
-# db-perpustakaan-join-clause
+# db-hotel-join-clause
 ## Apa Itu Join Clause?
 - INNER JOIN: Mengambil baris yang memiliki nilai cocok di kedua tabel.
 - LEFT JOIN (LEFT OUTER JOIN): Mengambil semua baris dari tabel kiri, dan baris yang cocok dari tabel kanan. Jika tidak ada kecocokan, hasilnya adalah NULL.
